@@ -9,7 +9,7 @@
 
 ### App Walk-though
 
-<img src='https://imgur.com/XEK4Kvq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/XEK4Kvq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Required
 - [x] Create New Project in Android Studio
